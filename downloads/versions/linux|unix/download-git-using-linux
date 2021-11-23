@@ -1,0 +1,62 @@
+for git latest version 2.34.0
+
+
+
+ Debian/Ubuntu
+  for the latest an stable version for your Debian/Ubuntu
+   # apt-get install git
+ For Ubuntu, this PPA (power, performance and area) provides the latest stable upstream Git version
+  # add-apt-repository ppa:git-core/ppa # apt update; apt install git
+ for Fedora
+  # yum install git (up to Fedora 21)
+  # dnf install git (Fedora 22 and later)
+ for Gentoo
+  # emerge --ask --verbose dev-vcs/git
+ for Arch Linux
+  # pacman -S git
+ for openSUSE
+  # zypper install git
+ for Mageia
+  # urpmi git
+ for Nix/NixOS
+  # nix-env -i git
+ for FreeBSD
+  # pkg install git
+ for Solaris 9/10/11 (OpenCSW)      
+  # pkgutil -i git
+ for Solaris 11 Express
+  # pkg install developer/versioning/git
+ for OpenBSD
+  # pkg_add git
+ for Alpine
+  $ apk add git
+ for Slitaz
+  $ tazpkg get-install git
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (OpenCSW) 
+ https://www.opencsw.org/
