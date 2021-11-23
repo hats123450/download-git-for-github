@@ -1,0 +1,43 @@
+the links for the word inside (**) is at the bottom
+homebrew link at bottom and in other file in macOS and also below
+https://brew.sh/
+for downloading git version 2.34.0
+
+Homebrew
+ Install (*homebrew*) if you don't already have it, then:
+  $ brew install git
+Xcode
+ Apple ships a binary package of Git with (*Xcode*).
+Binary installer
+ Tim Harper provides an (*installer*) for Git. The latest version is (*2.33.0*), which was released 3 months ago, on 2021-08-30.
+Building from Source
+ If you prefer to build from source, you can find tarballs (*on kernel.org*). The latest version is (*2.34.0)*.
+Installing git-gui
+If you would like to install (*git-gui*) and (*gitk*), git's commit GUI and interactive history browser, you can do so using (*homebrew*)
+$ brew install git-gui
+
+
+
+__________________________________________________________________________________________________________________________________________________
+
+*homebrew*
+ https://brew.sh/
+*xcode*
+ https://developer.apple.com/xcode/
+*Binary installer*
+ *installer*
+  https://sourceforge.net/projects/git-osx-installer/
+ *2.33.0*
+  https://sourceforge.net/projects/git-osx-installer/files/git-2.33.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect
+*Building from Source*
+ *on kernal.org*
+  https://www.kernel.org/pub/software/scm/git/
+ *2.34.0*
+  https://www.kernel.org/pub/software/scm/git/git-2.34.0.tar.gz
+*Installing git-gui*
+ *git-gui*
+  https://git-scm.com/docs/git-gui/
+ *gitk*
+  https://git-scm.com/docs/gitk/
+ *homebrew*
+  https://brew.sh/
