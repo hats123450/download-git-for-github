@@ -1,0 +1,6 @@
+mingw64 is git bash the command line for github so you can clone your projects and others and more
+if you dont know what a command line is go to the websites below
+https://www.computerhope.com/jargon/c/commandi.htm
+https://www.codecademy.com/articles/command-line-commands
+https://calvarychapelsierra.com/what-is-linux-command-line/
+or literally just search "what is a command line" on any search engine
